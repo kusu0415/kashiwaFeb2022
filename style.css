@@ -29,7 +29,7 @@
 
 html,
 body {
-    font-size: 16px;
+    font-size: 18px;
     /*画面幅481px以上で閲覧した際の文字サイズ。ここを変更すると、他の文字サイズも連動します。※480px以下の指定箇所は下の方に別途あります。*/
 }
 
@@ -373,9 +373,9 @@ header #logo {
     float: left;
     /*左に回り込み*/
     overflow: hidden;
-    margin: 0 6.6% 30px;
+    margin: 0 6.6% 20px;
     /*上、左右、下へ空けるスペース。サムネイル同士の余白部分です。*/
-    width: 20%;
+    width: 30%;
     /*幅*/
 }
 
