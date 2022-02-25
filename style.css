@@ -106,11 +106,11 @@ header #logo {
 }
 /*三本バーアイコン*/
 #menubar_hdr.close {
-	background: url(../images/icon_menu.png) no-repeat center top/50px;	/*背景画像の読み込み、画像の上半分（３本マーク）を表示。幅は50px。*/
+	background: url(https://github.com/kusu0415/kashiwaFeb2022/blob/main/icon_menu.png?raw=true) no-repeat center top/50px;	/*背景画像の読み込み、画像の上半分（３本マーク）を表示。幅は50px。*/
 }
 /*閉じるアイコン*/
 #menubar_hdr.open {
-	background: url(../images/icon_menu.png) no-repeat center bottom/50px;	/*背景画像の読み込み、画像の下半分（×マーク）を表示。幅は50px。*/
+	background: url(https://github.com/kusu0415/kashiwaFeb2022/blob/main/icon_menu.png?raw=true) no-repeat center bottom/50px;	/*背景画像の読み込み、画像の下半分（×マーク）を表示。幅は50px。*/
 }
 
 /*メインメニューブロックの設定
@@ -213,7 +213,7 @@ footer {
 	text-align: center;
 	box-shadow: 0px 0px 50px #fff inset;	/*ボックスの影。insetは内側に向ける指定。*/
 	padding: 3%;	/*余白*/
-	background: url(../images/1.jpg) no-repeat center center / cover;	/*背景画像の読み込み。*/
+	background: url(https://github.com/kusu0415/kashiwaFeb2022/blob/main/1.jpg?raw=true) no-repeat center center / cover;	/*背景画像の読み込み。*/
 	color: #666;	/*文字色*/
 }
 footer small {font-size: 100%;}
@@ -375,7 +375,7 @@ ol {
 /*全体の設定
 ---------------------------------------------------------------------------*/
 html,body {
-	font-size: 12px;	/*画面幅480px以下で閲覧した際の文字サイズ。*/
+	font-size: 10px;	/*画面幅480px以下で閲覧した際の文字サイズ。*/
 }
 
 /*ヘッダー
