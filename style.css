@@ -373,7 +373,7 @@ header #logo {
     float: left;
     /*左に回り込み*/
     overflow: hidden;
-    margin: 0 6.6% 40px;
+    margin: 0 6.6% 30px;
     /*上、左右、下へ空けるスペース。サムネイル同士の余白部分です。*/
     width: 20%;
     /*幅*/
